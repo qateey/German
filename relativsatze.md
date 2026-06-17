@@ -20,7 +20,7 @@ The relative clause is placed **directly after the noun** it describes:
 
 2. The verb goes to the end
 
-In German relative clauses, the conjugated verb goes to the **end**.
+In German relative clauses, the _conjugated_ verb goes to the **end**.
 
 | Normal sentence            | Relative clause          |
 | -------------------------- | ------------------------ |

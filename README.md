@@ -103,3 +103,66 @@ I get up at seven o’clock.
 
 **Ich kaufe heute im Supermarkt ein.**\
 I am shopping today at the supermarket.
+
+## Subordinate clauses
+
+### als
+
+Use **als** for **one specific event/time in the past**.
+
+Think: **one time in the past**.
+
+It introduces a **Nebensatz (subordinate clause)**, so the **conjugated verb goes to the end**.
+
+{% hint style="info" %}
+Main clause + comma + als + subject + other words + verb at the end
+
+or
+
+Als + subject + other words + verb at end, conjugated verb + subject + rest
+{% endhint %}
+
+**Ich war glücklich, als ich in Japan war.**\
+I was happy when I was in Japan.
+
+**Ich bin glücklich, wenn ich frei habe.**\
+I am happy when I have free time.
+
+**Als ich in Japan war, war ich sehr glücklich.**\
+When I was in Japan, I was very happy.
+
+### wenn
+
+It introduces a **Nebensatz (subordinate clause)**, so the **conjugated verb goes to the end**.
+
+{% hint style="info" %}
+Main clause + comma + wenn+ subject + other words + verb at the end
+
+or
+
+Wenn + subject + other words + verb at end, conjugated verb + subject + rest
+{% endhint %}
+
+used for
+
+_a) Repeated events in the past (whenever)_
+
+**Wenn ich früher Ferien hatte, fuhr ich nach Mombasa.**\
+Whenever I had holidays in the past, I went to Mombasa.
+
+**Wenn ich krank war, blieb ich zu Hause.**\
+Whenever I was sick, I stayed at home.
+
+Here it happened more than once.
+
+b) _present_
+
+**Wenn ich Zeit habe, lerne ich Deutsch.**\
+When/if I have time, I study German.
+
+c) _Future_
+
+**Wenn ich morgen Zeit habe, rufe ich dich an.**\
+When/if I have time tomorrow, I will call you.
+
+So **wenn** can mean **when** or **if**, depending on context.
